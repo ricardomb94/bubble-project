@@ -27,17 +27,12 @@ nav {
 }
 
 /* SECTION */
-.landing {
+.container {
   height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-/* .landing h1{
-    margin: 100px;
-    font-size: 50px;
-    color: #ae5fce;
-} */
 
 /* MEDIA QUERY */
 @media screen and (max-width: 768px) {
@@ -73,8 +68,8 @@ nav {
     pointer-events: none;
   }
   .nav-links.open {
-    clip-path: circle(831px at 3% -10%);
-    -webkit-clip-path: circle(831px at 3% -10%);
+    clip-path: circle(1200px at 3% -10%);
+    -webkit-clip-path: circle(1200px at 3% -10%);
     pointer-events: all;
   }
 
