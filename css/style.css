@@ -52,7 +52,7 @@ nav {
     right: 5%;
     top: 3%;
     transform: translate(-5%, 50%);
-    z-index: 2;
+    z-index: 1;
   }
 
   /* TABLETTE MENU  #208ae4;*/
